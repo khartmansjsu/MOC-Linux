@@ -1,8 +1,8 @@
 // MOC_GridDlg.cpp : implementation file
 //
 
-#include "stdafx.h"
-#include "MOC_Grid.h"
+// #include "stdafx.h"
+// #include "MOC_Grid.h"
 #include "MOC_GridDlg.h"
 #include "DlgProxy.h"
 #include "MOC_GridCalc_BDE.h"
@@ -11,7 +11,7 @@
 #include <fstream>
 using namespace std;
 // End of changes
-#include "direct.h"
+// #include "direct.h"
 
 
 #ifdef _DEBUG

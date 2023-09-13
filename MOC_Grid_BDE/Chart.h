@@ -6,7 +6,7 @@
 
 #ifndef _CHART_DOT_H
 #define _CHART_DOT_H
-#include "afxwin.h"
+// #include "afxwin.h"
 
 #if _MSC_VER > 1000
 #pragma once

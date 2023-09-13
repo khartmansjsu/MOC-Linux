@@ -29,7 +29,7 @@
 
 #include "MOC_GridCalc_BDE.h"
 #include "math.h"
-#include "afx.h"
+// #include "afx.h"
 // Tharen Rice May 2020 Change: New call for fstream
 //#include "fstream.h"
 #include <fstream>
